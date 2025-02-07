@@ -14,9 +14,6 @@ mkdir model_save_dir
 $ mkdir data
 $ cd data
 ```
-Download annotation from 
-
-[google drive](https://drive.google.com/file/d/1YuOUTbK7rged0gopQko5rdQuHKxiW9sv/view?usp=sharing)
 
 We reorganized the storage structure of image features as:
 
